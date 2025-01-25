@@ -19,5 +19,8 @@ AdGuard Home 屏蔽服务列表似乎没有快手和抖音（不是 TikTok），
 
 * 还可以使用 GHproxy 等服务来代理，参考 https://ghproxy.link 。
 
+# 效果
+![alt text](image.png)
+
 # 参考
 https://www.right.com.cn/forum/thread-4068368-1-1.html
