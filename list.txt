@@ -1,9 +1,23 @@
+# 抖音视频
 ||v*-dy.ixigua.com^
 ||v*.pstatp.com^
 ||v*-dy-x.ixigua.com^
 ||v*-dy-y.ixigua.com^
 ||v*-dy.ixiguavideo.com^
 ||v*-dy-z.ixigua.com^
+||log.snssdk.com^
+||xlog.snssdk.com^
+||i.snssdk.com^
+||aweme.snssdk.com^
+||lf.snssdk.com^
+||is.snssdk.com^
+||api.amemv.com^
+||mon.snssdk.com^
+||effect.snssdk.com^
+||hotsoon.snssdk.com^
+||dm.toutiao.com^
+||iu.snssdk.com^
+# 快手
 ||kuaishou.com^
 ||kwimgs.com^
 ||kwaicdn.com^
@@ -13,3 +27,15 @@
 ||yximgs.com^
 ||oskwai.com^
 ||inkuai.com^
+||p*.*kwai.com^
+||api.kuaishou*.com^
+||kwaixiaodian.com^
+# 疑似使用的p2p、cdn
+||xxpkg.com^
+||ssrcdn.com^
+||ssscdn.com^
+||djvod.ndcimgs.com^
+||vmcxz.cn^
+||z1cdn.com^
+
+
