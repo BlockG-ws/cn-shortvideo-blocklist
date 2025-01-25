@@ -1,7 +1,7 @@
 # shortvideos blocklist
 Blocklist for short video applications like kwai &amp; douyin.
 
-AdGuard Home 屏蔽服务列表似乎没有快手和抖音，索性写一个列表，心烦的时候就开开
+AdGuard Home 屏蔽服务列表似乎没有快手和抖音（不是 TikTok），索性写一个列表，心烦的时候就开开
 
 仅供参考学习，本人不对使用此列表而导致的道德困境负责。
 
