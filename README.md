@@ -15,7 +15,7 @@ AdGuard Home 屏蔽服务列表似乎没有快手和抖音（不是 TikTok），
 
 - GitHub raw： https://raw.githubusercontent.com/BlockG-ws/cn-shortvideo-blocklist/refs/heads/master/list.txt
 - Jsdelivr： https://cdn.jsdelivr.net/gh/BlockG-ws/cn-shortvideo-blocklist@master/list.txt
-- envs Gitea： https://git.envs.net/gb/shortvideos-blocklist/raw/branch/master/list.txt
+- envs Gitea： https://git.envs.net/gb/shortvideos-blocklist/raw/branch/master/list.txt （更新可能延后）
 
 * 还可以使用 GHproxy 等服务来代理，参考 https://ghproxy.link 。
 

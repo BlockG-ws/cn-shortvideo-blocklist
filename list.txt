@@ -27,7 +27,7 @@
 ||yximgs.com^
 ||oskwai.com^
 ||inkuai.com^
-||p*.*kwai.com^
+||*kwai.com^
 ||api.kuaishou*.com^
 ||kwaixiaodian.com^
 # 疑似使用的p2p、cdn
@@ -37,5 +37,3 @@
 ||djvod.ndcimgs.com^
 ||vmcxz.cn^
 ||z1cdn.com^
-
-
