@@ -37,3 +37,4 @@
 ||djvod.ndcimgs.com^
 ||vmcxz.cn^
 ||z1cdn.com^
+||yximgs-webrtc.liveplay.myqcloud.com^
