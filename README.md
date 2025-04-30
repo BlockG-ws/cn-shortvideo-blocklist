@@ -25,8 +25,12 @@ https://www.v2ex.com/t/1048182
 
 如果未能达成效果，还可以使用 Dnsmasq 来屏蔽（在 OpenWrt luci 中启用“强制转发到 Dnsmasq”），参考 [dnsmasq.conf](./dnsmasq.conf)
 
+或者可以将 [domain.list](./domain.list) 导入到类似于 adblock-fast 等插件，并开启强制使用路由器 DNS。
+
 # 效果
 ![alt text](image.png)
 
 # 参考
 https://www.right.com.cn/forum/thread-4068368-1-1.html
+
+https://github.com/v2fly/domain-list-community/data
